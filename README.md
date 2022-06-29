@@ -2,9 +2,9 @@ Use flip cards to learn French words.
 
 If you know the word press the  "check" button. If not, press  "x" button.
 
-Words that are unknown will remain in a new created list words_to_learn.csv in the data directory which you can use to see what words you did not know.
+Words that are unknown will remain in a new created list words_to_learn.csv in the data directory.  Use this data to check what are the unknwon words.
 
-Enjoy and if you have questions DM me :)
+Enjoy !
 
 <img width="869" alt="Screen Shot 2022-06-29 at 19 31 04 PM" src="https://user-images.githubusercontent.com/98416718/176488781-11c937cd-042f-4a9d-9a87-4804a91c3b22.png">
 
